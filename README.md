@@ -83,7 +83,13 @@ Run the script:
 ```bash
 python Gesturecontrol.py
 ```
+## 🎥 Demo Videos
 
+### 🔹 Real-Time Gesture Control
+[▶️ Watch Controlling Video](VID-20250720-WA0001.mp4)
+
+### 🔹 Hardware Working Prototype
+[▶️ Watch Hardware Video](VID-20250720-WA0002.mp4)
 ---
 
 ## 👨‍💻 Author
