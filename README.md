@@ -83,10 +83,11 @@ Run the script:
 ```bash
 python Gesturecontrol.py
 ```
-## 🎥 Demo Videos
+## 🎥 Demo Video
 
-### 🔹 Real-Time Gesture Control
-[[Gesture Demo](youtube logo.jpg)](https://youtube.com/shorts/ep1PITCTr3Q?feature=share)
+### 🔹 Real-Time Gesture Control  
+[![Gesture Demo](youtube%20logo.jpg)](https://youtube.com/shorts/ep1PITCTr3Q?feature=share)
+
 ## 👨‍💻 Author
 
 **Nikshith Burla**  
