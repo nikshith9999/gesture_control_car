@@ -89,6 +89,6 @@ python Gesturecontrol.py
 ## 👨‍💻 Author
 
 **Nikshith Burla**  
-GitHub: [@your-github-handle](https://github.com/your-github-handle)
+GitHub: [@your-github-handle]([(https://github.com/nikshith9999)])
 
 ---
