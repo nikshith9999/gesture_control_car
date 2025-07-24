@@ -86,7 +86,7 @@ python Gesturecontrol.py
 ## 🎥 Demo Videos
 
 ### 🔹 Real-Time Gesture Control
-[[Gesture Demo](youtube logo.png)](https://youtube.com/shorts/ep1PITCTr3Q?feature=share)
+[[Gesture Demo](youtube logo.jpg)](https://youtube.com/shorts/ep1PITCTr3Q?feature=share)
 ## 👨‍💻 Author
 
 **Nikshith Burla**  
